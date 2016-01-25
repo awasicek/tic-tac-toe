@@ -1,0 +1,105 @@
+#gameBox1 {
+  display: inline;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#gameBox2 {
+  display: inline;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#gameBox3 {
+  display: inline;
+  border-bottom: 2px solid black;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#gameBox4 {
+  display: inline;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#gameBox5 {
+  display: inline;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#gameBox6 {
+  display: inline;
+  border-bottom: 2px solid black;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#gameBox7 {
+  display: inline;
+  border-right: 2px solid black;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#gameBox8 {
+  display: inline;
+  border-right: 2px solid black;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#gameBox9 {
+  display: inline;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #FFFACF;
+}
+
+#finalizeMove {
+  color: white;
+  background-color: orange;
+  width: 100px
+}
+
+#finalizeMove:hover {
+ font-weight: bold;
+ cursor: pointer;
+}
+
+#resetButton {
+  color: white;
+  background-color: red;
+  width: 100px
+}
+
+#resetButton:hover {
+ font-weight: bold;
+ cursor: pointer;
+}
